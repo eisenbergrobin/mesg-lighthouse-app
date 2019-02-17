@@ -1,0 +1,12 @@
+{
+  "name": "mesg-lighthouse-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mesg-js": "^2.0.1"
+  },
+  "devDependencies": {
+    "prettier": "1.16.4"
+  }
+}
