@@ -1,4 +1,4 @@
-# mesg-lighthouse-ci
+# mesg-lighthouse-app
 
 Run a [lighthouse](https://developers.google.com/web/tools/lighthouse/) audit of your website through mesg, triggered by webhook by your favorite CI.
 
@@ -13,7 +13,7 @@ mesg-core service deploy https://github.com/mesg-foundation/service-webhook
 Start the application:
 
 ```bash
-open http://localhost:8080/report-mesg-com
+node index.js
 ```
 
 Request a lighthouse audit of `https://mesg.com`:
