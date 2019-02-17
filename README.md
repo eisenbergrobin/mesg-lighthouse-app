@@ -30,3 +30,5 @@ View the results:
 ```bash
 open http://localhost:8080/report-mesg-com
 ```
+
+![lighthouse-report](https://user-images.githubusercontent.com/4547030/52914707-0c255080-32cc-11e9-9e41-e83d0890bd08.png)
